@@ -13,7 +13,9 @@ https://blog.expo.io/should-we-use-react-native-1465d8b607ac[Should we use React
 1，如果你开始做一个全新的app并打算几乎100%使用Javascript，用RN；2，如果你已有一个原生的 app，但有几个简单的用webview也能做的页面，如“关于” “设置”，用RN；3，如果你想在原生app里加复杂的页面或重写，别用RN。
 
 == Tip
- 写了一篇文章 https://mp.weixin.qq.com/s/1TSWNvhF0pCQn7gxbpCzaw[炎炎夏日沉思] ， 货币政策等 
+ . 写了一篇文章 
+ https://mp.weixin.qq.com/s/1TSWNvhF0pCQn7gxbpCzaw[炎炎夏日沉思] 
+ 货币政策等 
 
 == share
 XX国，资本收益远大于劳动收益。
