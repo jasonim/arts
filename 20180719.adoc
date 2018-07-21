@@ -11,6 +11,7 @@ https://blog.expo.io/should-we-use-react-native-1465d8b607ac[Should we use React
 这是对 Airbnb 弃用 React Native 的回应。作者写此文的真正动机是什么？作者是 Facebook 早期员工，也是 Quora 联合创始人，最近他的新公司是 Expo.io，一站式的 React Native 开发平台/工具链。本文传递的主要意思是，如果用 React Native，请用 Expo：）
 
 1，如果你开始做一个全新的app并打算几乎100%使用Javascript，用RN；2，如果你已有一个原生的 app，但有几个简单的用webview也能做的页面，如“关于” “设置”，用RN；3，如果你想在原生app里加复杂的页面或重写，别用RN。
+
 == Tip
  写了一篇文章 炎炎夏日沉思[https://mp.weixin.qq.com/s/1TSWNvhF0pCQn7gxbpCzaw]， 货币政策等 
 
