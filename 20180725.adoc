@@ -6,7 +6,7 @@ include::{source_base_path}/LongestSubstringWithoutRepeatingCharacters.java[]
 ----
 
 == Review
-http://calacanis.com/2018/07/25/this-is-your-captain-speaking-im-turning-on-the-fasten-seat-belt-sign/?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=website [This is your Captain speaking, I’m turning on the fasten seat belt sign]
+http://calacanis.com/2018/07/25/this-is-your-captain-speaking-im-turning-on-the-fasten-seat-belt-sign/?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=website[This is your Captain speaking, I’m turning on the fasten seat belt sign]
 
 Uber 早期投资人 Jason Calacanis 写给他投资的 250 多个创业者的信：这一波牛市持续了十年，接下来两年崩盘的可能性颇大；经济萧条时会发生如下事情（详见原文），请大家储备超过十八个月的现金，准备过冬。
 
