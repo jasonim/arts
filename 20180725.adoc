@@ -6,7 +6,21 @@ include::{source_base_path}/LongestSubstringWithoutRepeatingCharacters.java[]
 ----
 
 == Review
+http://calacanis.com/2018/07/25/this-is-your-captain-speaking-im-turning-on-the-fasten-seat-belt-sign/?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=website [This is your Captain speaking, I’m turning on the fasten seat belt sign]
+
+Uber 早期投资人 Jason Calacanis 写给他投资的 250 多个创业者的信：这一波牛市持续了十年，接下来两年崩盘的可能性颇大；经济萧条时会发生如下事情（详见原文），请大家储备超过十八个月的现金，准备过冬。
+
+“fortunes are built in the down market, and collected in the up market.”
 
 == Tip
+. 找房子
+. 买房过户
 
 == share
+一直住在我姐姐婆婆的房子里， 已经4年没有搬家了， 亲戚婆媳关系问题， 矛盾越现突出。为了产生不必要的麻烦，在加上小孩附近的公立幼儿园没有搞定，  只能选择搬家。
+
+在这稳定的四年里， 很感谢。 通过这个找房子， 发现现在北京房租市场又和以前不一样了， 由于北京变相赶人计划 我不得不提高预算 尽管这样房子还是不好找。 昨天我老婆还跟我说， 我们把外地的卖了两个吧， 在北京买一个吧。 
+
+其实这个方案我很早就想了， 因为我们都没有首套首贷的资格了， 这些钱只能买个400w 的上车盘 北京老破小， 相当于一个蓝筹股去置换一个垃圾股 如果我有首套首贷资格， 我肯定毫不犹豫选择后者了。 哎， 谁叫当时把sfsd 打掉呢 自己的选择自己含着泪也要走下去。
+
+不过目前房租行情 其实租房蛮划算的，  和房价相比还是不贵， 当然提前是别的渠道投资， 现在租房子还是很划算的
